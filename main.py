@@ -1,4 +1,5 @@
 from str_func import *
 
 word = input("введите слово ")
-print(str_func(word))
+word_upper = str_func(word)
+print(word_upper)
