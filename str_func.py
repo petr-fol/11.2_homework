@@ -1,6 +1,6 @@
-def str_func(string):
+def str_func(word):
     """
-    :param string:
+    :param word:
     :return строка в верхнем регистре:
     """
-    return string.upper
+    return word.upper()
