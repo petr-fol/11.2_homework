@@ -33,3 +33,5 @@ def str_upper_letter(str_):
     new_str_words = ' '.join(new_list_words)
     return new_str_words
 # локальные изменения
+# еще больше локальных изменений
+# еще больше локальных изменений!
